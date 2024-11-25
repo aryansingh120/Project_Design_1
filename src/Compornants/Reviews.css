@@ -1,0 +1,53 @@
+.green
+{
+    transform: translate(83vw,-30vh);
+}
+
+.rev
+{
+    height: auto;
+    margin-top: -40vh;
+    width: 100% !important;
+}
+.rev img
+{
+    transform: translate(67vw,-4vh);
+    margin-left: 20px;
+}
+.review
+{
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    width: 116%;
+}
+.review1
+{
+    width: 29%;
+
+}
+.stars
+{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.parag
+{
+    font-size: 13px;
+}
+.author
+{
+    margin-top: 20px;
+}
+.aname
+{
+    font-size: 21px;
+    font-weight: 600;
+    margin-top: -40px;
+    margin-left: 50px;
+}
+.designer
+{
+    margin-left: 50px;
+
+}

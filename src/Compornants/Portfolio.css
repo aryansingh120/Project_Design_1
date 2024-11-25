@@ -1,0 +1,54 @@
+.port
+{
+    height: 100vh;
+    display: flex;
+}
+.copy
+{
+    width: 38% !important;
+}
+.port1
+{
+    width: 62%;
+    display: flex;
+}
+.port1 img
+{
+    height: 65vh;
+}
+.port1 img+img
+{
+    height: 57vh;
+}
+.port1 img+img+img
+{
+    transform: translate(7.4vw,0px);
+}
+.portchild
+{
+    height: 10vh;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    transform: translate(49vw,-43vh);
+}
+.portchild img
+{
+    margin-left: 20px;
+}
+.portchild img+img+img+img
+{
+    margin-left: 10vw;
+}
+.portchild img+img+img+img+img
+{
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+

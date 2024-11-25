@@ -1,0 +1,50 @@
+.skill
+{
+    display: flex;
+
+}
+.skill1
+{
+    padding-top: 0;
+    width: 40%;
+}
+.hire
+{
+    font-size: 40px;
+}
+.skill2
+{
+    width: 60%;
+    padding-left: 10vw;
+}
+.skill3
+{
+    height: 20vh;
+    width: 40%;
+    background-color: rgb(300, 300, 245);
+}
+.skill3 p
+{
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.skill3 p+p
+{
+    font-weight: normal;
+    font-size: 15px;
+}
+.skill2 .skill3+.skill3
+{
+    margin-left: 20vw;
+    margin-top: -7vh;
+}
+.skill2 .skill3+.skill3+.skill3
+{
+    margin-left: 0;
+    margin-top: -6vh;
+}
+.group
+{
+    transform: translate(83vw,100px);
+}

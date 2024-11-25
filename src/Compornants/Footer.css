@@ -1,0 +1,19 @@
+.footer
+{
+    display: flex;
+    padding-top: 10vh;
+    border-top: 1px solid rgb(173, 172, 172);
+    margin-top: 10vh;
+}
+.footer img
+{
+    height: 3.4vh;
+    margin-left: 7px;
+}
+
+.footer p+p
+{
+    margin-left: 17vw;
+    margin-right: 19vw;
+}
+

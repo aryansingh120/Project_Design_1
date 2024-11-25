@@ -1,0 +1,35 @@
+.exp
+{
+    /* border: 1px solid black; */
+    display: flex;
+    height: 20vh;
+    justify-content: space-between;
+
+    p+p+p>hr
+    {
+        display: none;
+    }
+    p+p>hr
+    {
+        margin-left: 240px;
+    }
+}
+.exp hr
+{
+   rotate: 90deg;
+    width: 5vw;
+    margin-left: 180px;
+    margin-top: -30px;
+}
+.exp p
+{
+    font-size: 40px;
+    color: #0DB760;
+
+}
+.exp p>p
+{
+    font-size: 20px;
+    color: black;
+
+}

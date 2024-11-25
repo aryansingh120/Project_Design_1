@@ -1,0 +1,65 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+body
+{
+    padding-left: 12vw;
+    padding-right: 12vw;
+}
+.nav
+{
+    padding-top: 7vh;
+    display: flex;
+}
+.nav img
+{
+    height: 5vh;
+}
+.nav span
+{
+   color: #0DB760;
+   font-size: 25px;
+   font-weight: 900;
+   margin-left: 4px;
+   margin-right: 6vw;
+}
+.nav button
+{
+   height: 6vh;
+   width: 9vw;
+   margin-left: 30px;
+   border: none;
+   background: none;
+   font-size: 16px;
+   font-weight: 570;
+}
+.nav button+button
+{
+    margin-left: 0px;
+}
+.nav button+button+button
+{
+    width: 9vw;
+}
+.nav button+button+button+button
+{
+    width: 9vw;
+    /* margin-left: 29px; */
+}
+.nav button+button+button+button+button
+{
+    border: 1.5px solid #0DB760;
+    width: 14vw;
+    margin-left: 8.3vw;
+    border-radius: 10px;
+}
+@media only screen and (max-width: 624px)
+{
+  
+}
+
+
